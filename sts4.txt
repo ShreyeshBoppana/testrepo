@@ -1,0 +1,2 @@
+sudo codesign --force --sign - /Applications/SpringToolSuite4.app
+sudo lsof -i :8080
